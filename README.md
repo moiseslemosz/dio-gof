@@ -96,7 +96,7 @@ Caso tente buscar um ID inexistente, a API retorna um erro tratado e amigável, 
 
 2.  **Entre na pasta do projeto:**
     ```bash
-    cd nome-do-repo
+    cd dio-gof/
     ```
 
 3.  **Execute a aplicação:**
